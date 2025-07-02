@@ -6,7 +6,7 @@ I'm currently working toward my goal of landing a SOC Analyst role by consistent
 
 ---
 
-## 📫 Let’s Connect!
+## Let’s Connect!
 
 I'm always open to networking, feedback, and new opportunities in the cybersecurity space. Feel free to reach out or explore my certifications.
 
