@@ -25,11 +25,13 @@ I'm always open to networking, feedback, and new opportunities in the cybersecur
 This repository is a living collection of practical cybersecurity projects I've completed to sharpen my technical skills. Each project is designed to mirror real-world scenarios and includes documentation, screenshots, findings, and lessons learned.
 
 ### Featured Projects
-
+- Cyber Security Virtual Lab
 ---
 
 ## Tools & Technologies
-
+- Windows Hyper-V Manager
+- Kali Linux
+- Wazuh
 
 ---
 
