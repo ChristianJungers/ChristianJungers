@@ -28,15 +28,14 @@ This repository is a living collection of practical networking projects I've com
 - Ansible Virtual Lab
 - Python/Network Automation Lab
 - OSPF Lab
-- 
+- CCNA Course Lab Work
 ---
 
 ## Tools & Technologies
-- Windows Hyper-V Manager
 - Ansible
 - Cisco IOS
 - OSPF
-
+- Cisco Packet Tracer
 ---
 
 
