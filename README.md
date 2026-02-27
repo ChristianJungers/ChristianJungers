@@ -6,6 +6,36 @@ I'm currently working toward my goal of landing a Network Engineer role by consi
 
 ---
 
+## Current Focus
+
+Currently diving deeper into Python and Ansible for Network Automation and exploring BGP fundamentals for the CCNP path.
+
+---
+
+## What You’ll Find in This Repository
+
+This repository is a living collection of practical networking projects I've completed to sharpen my technical skills. Each project is designed to mirror real-world scenarios and includes documentation, screenshots, findings, and lessons learned.
+
+---
+
+## Tools & Technologies
+- **Networking:** OSPF, VLANs/Trunking, STP, EtherChannel, NAT/ACLs
+- **Automation/DevOps:** Python(Netmiko/NAPALM), Ansible, YAML, JSON
+- **Platforms:** Cisco IOS, Cisco Packet Tracer, GNS3/EVEng/CML
+
+---
+
+### Featured Projects
+
+| Project | Key Technologies | Description |
+| :--- | :--- | :--- |
+| [**Ansible Virtual Lab**](#) | Ansible, YAML, Cisco IOS | Automated configuration management for virtual network devices. |
+| [**Python Automation**](#) | Python, Netmiko, JSON | Scripts designed to automate config backups and state verification. |
+| [**OSPF Multi-Area Lab**](#) | OSPF, Cisco IOS, VLSM | A deep dive into scalable routing, summarization, and area design. |
+| [**CCNA Course Work**](https://github.com/ChristianJungers/CCNA-Course-Lab-Work) | Packet Tracer, Labs | A comprehensive collection of labs covering the full CCNA curriculum. |
+
+---
+
 ## Let’s Connect!
 
 I'm always open to networking, feedback, and new opportunities in the space. Feel free to reach out or explore my certifications.
@@ -19,24 +49,5 @@ I'm always open to networking, feedback, and new opportunities in the space. Fee
 </a>
 
 ---
-
-## What You’ll Find in This Repository
-
-This repository is a living collection of practical networking projects I've completed to sharpen my technical skills. Each project is designed to mirror real-world scenarios and includes documentation, screenshots, findings, and lessons learned.
-
-### Featured Projects
-- Ansible Virtual Lab
-- Python/Network Automation Lab
-- OSPF Lab
-- [CCNA Course Lab Work](https://github.com/ChristianJungers/CCNA-Course-Lab-Work)
----
-
-## Tools & Technologies
-- Ansible
-- Cisco IOS
-- OSPF
-- Cisco Packet Tracer
----
-
 
 Thanks for stopping by! Feel free to fork this repo or drop me a message if you'd like to collaborate or chat about cybersecurity.
