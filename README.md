@@ -32,7 +32,6 @@ This repository is a living collection of practical networking projects I've com
 | [**Ansible Virtual Lab**](#) | Ansible, YAML, Cisco IOS | Automated configuration management for virtual network devices. |
 | [**Python Automation**](#) | Python, Netmiko, JSON | Scripts designed to automate config backups and state verification. |
 | [**OSPF Multi-Area Lab**](#) | OSPF, Cisco IOS, VLSM | A deep dive into scalable routing, summarization, and area design. |
-| [**CCNA Course Work**](https://github.com/ChristianJungers/CCNA-Course-Lab-Work) | Packet Tracer, Labs | A comprehensive collection of labs covering the full CCNA curriculum. |
 
 ---
 
