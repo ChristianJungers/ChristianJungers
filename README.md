@@ -28,7 +28,7 @@ This repository is a living collection of practical networking projects I've com
 - Ansible Virtual Lab
 - Python/Network Automation Lab
 - OSPF Lab
-- CCNA Course Lab Work
+- [CCNA Course Lab Work](https://github.com/ChristianJungers/CCNA-Course-Lab-Work)
 ---
 
 ## Tools & Technologies
