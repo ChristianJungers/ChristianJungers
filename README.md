@@ -29,7 +29,7 @@ This repository is a living collection of practical networking projects I've com
 
 | Project | Key Technologies | Description |
 | :--- | :--- | :--- |
-| [**Ansible Virtual Lab**](#https://github.com/ChristianJungers/Network-Automation-Projects) | Ansible, YAML, Cisco IOS | Automated configuration management for virtual network devices. |
+| [**Ansible Virtual Lab**](https://github.com/ChristianJungers/Network-Automation-Projects) | Ansible, YAML, Cisco IOS | Automated configuration management for virtual network devices. |
 | [**Python Automation**](#) | Python, Netmiko, JSON | Scripts designed to automate config backups and state verification. |
 | [**OSPF Multi-Area Lab**](#) | OSPF, Cisco IOS, VLSM | A deep dive into scalable routing, summarization, and area design. |
 
