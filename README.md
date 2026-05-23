@@ -31,7 +31,7 @@ This repository is a living collection of practical networking projects I've com
 | :--- | :--- | :--- |
 | [**Ansible Virtual Lab**](https://github.com/ChristianJungers/Network-Automation-Projects) | Ansible, YAML, Cisco IOS | Automated configuration management for virtual network devices. |
 | [**Python Automation**](#) | Python, Netmiko, JSON | Scripts designed to automate config backups and state verification. |
-| [**OSPF Multi-Area Lab**](#) | OSPF, Cisco IOS, VLSM | A deep dive into scalable routing, summarization, and area design. |
+| [**Enterprise Network Lab**](https://github.com/ChristianJungers/Enterprise-Network-Project/tree/main) VLANS, Trunking, STP, OSPF, BGP| Build a realistic enterprise network designed in Cisco Modeling Lab. |
 
 ---
 
