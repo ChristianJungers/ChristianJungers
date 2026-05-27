@@ -30,7 +30,7 @@ This repository is a living collection of practical networking projects I've com
 | Project | Key Technologies | Description |
 | :--- | :--- | :--- |
 | [**Ansible Virtual Lab**](https://github.com/ChristianJungers/Network-Automation-Projects) | Ansible, YAML, Cisco IOS | Automated configuration management for virtual network devices. |
-| [**IT Knowledge Base**](https://github.com/ChristianJungers/it-knowledge-base) | CCNP, AZ-100, Ansible | KB repository for all notes related to certs and IT technologies. |
+| [**IT Knowledge Base**](https://github.com/ChristianJungers/it-knowledge-base) | CCNP, AZ-104, Ansible | KB repository for all notes related to certs and IT technologies. |
 | [**Enterprise Network Lab**](https://github.com/ChristianJungers/Enterprise-Network-Project/tree/main) | VLANS, Trunking, STP, OSPF, BGP| Build a realistic enterprise network designed in Cisco Modeling Lab. |
 
 ---
